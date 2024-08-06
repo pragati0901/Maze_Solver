@@ -16,3 +16,7 @@ Algorithms Implemented:
 Depth-First Search (DFS)
 Breadth-First Search (BFS)
 A Search*
+
+Installation:
+Install the required libraries:
+pip install pygame
